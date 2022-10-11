@@ -1,0 +1,10 @@
+C:\Users\asus\Desktop\OtobusBiletSatisi-main\OtobusBiletSatisi\bin\Debug\OtobusBiletSatisi.exe
+C:\Users\asus\Desktop\OtobusBiletSatisi-main\OtobusBiletSatisi\bin\Debug\OtobusBiletSatisi.pdb
+C:\Users\asus\Desktop\OtobusBiletSatisi-main\OtobusBiletSatisi\obj\Debug\OtobusBiletSatisi.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\OtobusBiletSatisi-main\OtobusBiletSatisi\obj\Debug\OtobusBiletSatisi.AnaForm.resources
+C:\Users\asus\Desktop\OtobusBiletSatisi-main\OtobusBiletSatisi\obj\Debug\OtobusBiletSatisi.Islem_Yap.resources
+C:\Users\asus\Desktop\OtobusBiletSatisi-main\OtobusBiletSatisi\obj\Debug\OtobusBiletSatisi.Properties.Resources.resources
+C:\Users\asus\Desktop\OtobusBiletSatisi-main\OtobusBiletSatisi\obj\Debug\OtobusBiletSatisi.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\OtobusBiletSatisi-main\OtobusBiletSatisi\obj\Debug\OtobusBiletSatisi.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\OtobusBiletSatisi-main\OtobusBiletSatisi\obj\Debug\OtobusBiletSatisi.exe
+C:\Users\asus\Desktop\OtobusBiletSatisi-main\OtobusBiletSatisi\obj\Debug\OtobusBiletSatisi.pdb
